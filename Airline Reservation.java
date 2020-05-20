@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Air
+class Air 	//we have to fly :)
 {
 	int pass1=12345,bill=0;
 	int a,b,w,age,date,ch,ch1;
@@ -346,7 +346,7 @@ class Air
 		if(ch==2)
 		
 		{
-			
+
 			System.out.println("\tAgartala");
 			System.out.println("\tAhmedabad");
 			System.out.println("\tAllahabad");
