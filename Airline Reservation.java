@@ -344,7 +344,9 @@ class Air
 			}
 		}
 		if(ch==2)
+		
 		{
+			
 			System.out.println("\tAgartala");
 			System.out.println("\tAhmedabad");
 			System.out.println("\tAllahabad");
