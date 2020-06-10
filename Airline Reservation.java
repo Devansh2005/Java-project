@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Air 	//we have to fly :)
+class Air 	//get ready to fly :)
 {
 	int pass1=12345,bill=0;
 	int a,b,w,age,date,ch,ch1;
@@ -172,7 +172,7 @@ class Air 	//we have to fly :)
 			FileReader f2=new FileReader("ecRes.txt");
 			BufferedReader b2=new BufferedReader(f2);
 			r=0;	
-			while((text=b2.readLine())!=null)
+			while((text=b2.readLine())!=null )
 			{
 				s1[r]=text;
 				a=s1[r].indexOf(" ");
